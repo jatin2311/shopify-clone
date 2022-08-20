@@ -24,6 +24,10 @@
 
 ---
 
-![Demo-images](https://github.com/jatin2311/saas-landing-page/blob/master/Demo/ss-01.png)
-![Demo-images](https://github.com/jatin2311/saas-landing-page/blob/master/Demo/02.png)
+![Demo-images](https://github.com/jatin2311/shopify-clone/blob/master/Demo/ss-01.png)
+![Demo-images](https://github.com/jatin2311/shopify-clone/blob/master/Demo/ss-02.png)
+![Demo-images](https://github.com/jatin2311/shopify-clone/blob/master/Demo/ss-03.png)
+![Demo-images](https://github.com/jatin2311/shopify-clone/blob/master/Demo/ss-04.png)
+![Demo-images](https://github.com/jatin2311/shopify-clone/blob/master/Demo/ss-05.png)
+![Demo-images](https://github.com/jatin2311/shopify-clone/blob/master/Demo/ss-06.png)
 
