@@ -9,10 +9,10 @@
 ---
 
 ### Learn From This Project
-- i learn about Flex box in this project.
+- i learn about Tail-wind css in this project.
 - i  also learn about z-index & linear gradient.
 - i also learn about media query and how to create break-points for diffrent screens.
-- i also utilize grid and also learn about it.
+- i also utilize flexbox in this project.
 
 #### Time-Taken
 - it takes almost 8-9 hours to complete this project.
